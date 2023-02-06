@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="img.png" width="100"/>
-</div>
 <p align="center">:)</p>
 
 ---
